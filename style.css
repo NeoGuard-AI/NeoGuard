@@ -144,19 +144,6 @@ button:hover {
     margin-bottom: 10px;
 }
 
-.research-image-container {
-    display: flex;
-    justify-content: center;
-    margin: 20px 0;
-}
-
-.research-image {
-    width: 80%;
-    max-width: 600px;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
 .research-section {
     padding: 60px 20px;
     background-color: #f0f8ff; /* Light blue background */
@@ -189,6 +176,18 @@ button:hover {
     background-color: #ff4a47;
 }
 
+.research-image-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.research-image {
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
 
 /* Disclaimer Section */
 .disclaimer-section {
