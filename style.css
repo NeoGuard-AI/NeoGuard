@@ -144,6 +144,52 @@ button:hover {
     margin-bottom: 10px;
 }
 
+.research-image-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.research-image {
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.research-section {
+    padding: 60px 20px;
+    background-color: #f0f8ff; /* Light blue background */
+    text-align: center;
+}
+
+.research-section h2 {
+    font-size: 36px;
+    color: #333;
+}
+
+.research-content p {
+    font-size: 18px;
+    margin: 10px 0 20px;
+    color: #555;
+}
+
+.research-link {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #FF6F61;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: background-color 0.3s ease;
+}
+
+.research-link:hover {
+    background-color: #ff4a47;
+}
+
+
 /* Disclaimer Section */
 .disclaimer-section {
     padding: 40px;
